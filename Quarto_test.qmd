@@ -7,3 +7,5 @@ editor: visual
 ## Here is an image
 
 ![A classic image.](images/bliss.jpg)
+
+It is a really excellent image.
